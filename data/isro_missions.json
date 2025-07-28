@@ -1,0 +1,12 @@
+[
+  {
+    "mission": "Aditya-L1",
+    "description": "India’s first solar mission to study the sun.",
+    "launch_info": "Launched on September 2, 2023"
+  },
+  {
+    "mission": "Chandrayaan-3",
+    "description": "India’s third lunar exploration mission.",
+    "launch_info": "Launched on July 14, 2023"
+  }
+]
